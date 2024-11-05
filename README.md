@@ -1,4 +1,5 @@
-# HR-Dash
+# HR-Dash              ![Power BI](https://img.shields.io/badge/Powered%20By-Power%20BI-yellow?logo=power-bi&style=flat)
+
 
 An interactive HR analytics dashboard created using Power BI, based on employee data from an Excel sheet. This dashboard provides insights into various HR metrics, helping organizations make data-driven decisions.
 
